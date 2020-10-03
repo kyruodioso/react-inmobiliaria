@@ -11,3 +11,26 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  background-color: #dfca8cc9;
+}
+
+li.nav-link{
+  margin-bottom:0;
+}
+
+.home{
+ background-image: url('https://a-static.besthdwallpaper.com/hermoso-interior-de-la-casa-papel-pintado-1920x1080-12028_48.jpg');
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 95vh;
+}
+
+.card{
+  width: 18rem;
+  margin: 0.5em;
+  opacity: 0.9;
+}
+
+
